@@ -29,6 +29,7 @@ items:
  - ExpediaGroup/expediagroup.github.io
  - wikimedia/wikimedia.github.io
  - fairfield-programming/fairfield-programming.github.io
+ - Uploadcare/uploadcare
 display_name: Open source organizations
 created_by: benbalter
 image: open-source-organizations.png
